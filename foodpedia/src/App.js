@@ -31,7 +31,7 @@ function App(props) {
           <Route path='/about' element={<About/>}/>
           <Route path='/login' element={<Login />}/>
           <Route path='/register' element={<Register/>}/>
-          <Route path='/registerres' element={<RegisterRes/>}/>
+//           <Route path='/registerres' element={<RegisterRes/>}/>
 
           <Route path='/cart' element={<Cart/>}/>
           <Route path="/checkout" element={<Checkout />} />
