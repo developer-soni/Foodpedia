@@ -10,7 +10,7 @@
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 ## Deployed on GH-Pages
-https://github.com/developer-soni/Foodpedia
+https://developer-soni.github.io/Foodpedia
 
 ## Description
 A food ordering and delivery application to save food, make it affordable to customers and profitable to restaurants.
